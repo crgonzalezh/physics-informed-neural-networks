@@ -1,6 +1,8 @@
 
 # Physics-Informed Neural Networks (PINNs)
 
+![Heat equation PINN vs analytical](heat_equation/heatmap_pinn_vs_analitica.gif)
+
 This repository contains implementations of Physics-Informed Neural Networks (PINNs) to solve partial differential equations.
 
 The main idea behind PINNs is to train neural networks that satisfy physical laws by incorporating the governing equations directly into the loss function.
