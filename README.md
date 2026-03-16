@@ -22,6 +22,19 @@ Future examples:
 
 ---
 
-## Repository Structure
-## Requirements Typical dependencies: - PyTorch - NumPy - Matplotlib --- 
-## Author Cristian González BSc Physics | Data Scientist
+---
+
+## Requirements
+
+Typical dependencies:
+
+- PyTorch
+- NumPy
+- Matplotlib
+
+---
+
+## Author
+
+Cristian González  
+BSc Physics | Data Scientist
